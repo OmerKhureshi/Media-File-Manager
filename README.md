@@ -7,7 +7,7 @@ Check it out at: **_app.syedomerkhureshi.com_** :smile:
 
 *Note: You should login with a Google account to be able to see the webpage.*
 
-##Demo
+<h2>Demo</h2>
 <h4>Choose a category in the main page: Image, Video or Audio.</h4>
 <p align="center">
 <img align="middle" src="https://github.com/omersalar/Media-File-Manager/blob/master/Assets/MainPage.gif" alt="Main page" width="70%">
